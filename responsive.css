@@ -1,0 +1,12 @@
+@media screen and (max-width:768px){
+    h1{
+        font-size: 1em;
+        padding: .8rem .6rem;
+    }
+}
+@media screen and (max-width:992px){
+    h1{
+        font-size: 1.2em;
+        padding: 1rem .8rem;
+    }
+}
